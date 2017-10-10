@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FirstReactiveDesign/.idea/FirstReactiveDesign.iml" filepath="$PROJECT_DIR$/../FirstReactiveDesign/.idea/FirstReactiveDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GwiseQuants/.idea/GwiseQuants.iml" filepath="$PROJECT_DIR$/../GwiseQuants/.idea/GwiseQuants.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ibCon.iml" filepath="$PROJECT_DIR$/.idea/ibCon.iml" />
     </modules>
   </component>
