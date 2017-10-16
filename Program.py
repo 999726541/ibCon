@@ -976,7 +976,7 @@ class TestApp(TestWrapper, TestClient):
     # ! [contractdetails]
     def contractDetails(self, reqId: int, contractDetails: ContractDetails):
         super().contractDetails(reqId, contractDetails)
-        (contractDetails.summary)
+        printinstance(contractDetails.summary)
 
     # ! [contractdetails]
 
